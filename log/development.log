@@ -1,0 +1,34 @@
+# Logfile created on Thu Mar 27 21:14:02 +0900 2008
+
+Processing DaumController#index (for 127.0.0.1 at 2008-03-27 21:14:15) [GET]
+  Session ID: 67bd23b05f085509b1fd8d98e1e1baba
+  Parameters: {"action"=>"index", "controller"=>"daum"}
+Rendering template within layouts/application
+Rendering daum/index
+Completed in 0.01405 (71 reqs/sec) | Rendering: 0.00831 (59%) | DB: 0.00000 (0%) | 200 OK [http://0.0.0.0/daum]
+
+
+Processing DaumController#search (for 127.0.0.1 at 2008-03-27 21:14:19) [POST]
+  Session ID: BAh7BzoMY3NyZl9pZCIlYWI3YjMyOWU1YmY3NDNiNjI1N2E0MzIxMjhjMjM3%0AOTciCmZsYXNoSUM6J0FjdGlvbkNvbnRyb2xsZXI6OkZsYXNoOjpGbGFzaEhh%0Ac2h7AAY6CkB1c2VkewA%3D--9d85f343b342b841cdc136e4fbcd0a5425e16cef
+  Parameters: {"commit"=>"다음검색", "authenticity_token"=>"7bd90ec27cc1fcca18dcc116c4ad503c7ac0bc4f", "action"=>"search", "q"=>"효리", "controller"=>"daum"}
+Rendered daum/_item (0.00134)
+Rendered daum/_item (0.00024)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00026)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00044)
+Rendered daum/_item (0.00022)
+Rendered daum/_item (0.00055)
+Rendered daum/_item (0.00024)
+Rendered daum/_item (0.00020)
+Rendered daum/_item (0.00057)
+Rendered daum/_item (0.00028)
+Completed in 0.41031 (2 reqs/sec) | Rendering: 0.01081 (2%) | DB: 0.00000 (0%) | 200 OK [http://0.0.0.0/daum/search]
