@@ -1,0 +1,7 @@
+<% form_remote_tag :url => {:action => "search"}, :update => "result" do -%>
+<fieldset>
+	<%= text_field_tag 'q' %>
+	<%= submit_tag '다음검색' %>
+	<div id="result"></div>
+</fieldset>
+<% end -%>

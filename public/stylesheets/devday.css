@@ -1,0 +1,17 @@
+body { text-align: center; }
+
+fieldset {
+	background-color: #eee;
+	width: 780px;
+	margin: 10px auto 10px;
+}
+
+#result { margin: 10px; }
+
+.item {
+	float: left;
+	width: 150px;
+	height: 150px;
+}
+
+img { border: 0px; }
