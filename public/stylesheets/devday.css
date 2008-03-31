@@ -1,9 +1,7 @@
-body { text-align: center; }
-
 fieldset {
-	background-color: #eee;
-	width: 780px;
-	margin: 10px auto 10px;
+	background-color: #888;
+	width: 800px;
+	margin: 10px auto 10px auto;
 }
 
 #result { margin: 10px; }
